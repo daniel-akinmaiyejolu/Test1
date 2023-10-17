@@ -1,0 +1,23 @@
+# Created a copy of github repo on local machine
+git clone https://github.com/daniel-akinmaiyejolu/Test1
+
+# Changed into correct/new folder
+cd Test1/
+
+ls
+
+cat README.md
+
+# Created a file
+echo "miso\nmochi" > TestNames.txt
+
+# Added file to be tracked
+git add TestNames.txt
+
+git status
+
+# Commited file
+git commit -m "added a test file"
+
+# Pushed changes back to github
+git push
