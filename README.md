@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Test1 Road me Head changed
 
-Testing out Markdown for fun, why not, for now
+Testing out Markdown for fun and making changes
+>>>>>>> feature3
 
 This is **bold text** for no *reason*
 
