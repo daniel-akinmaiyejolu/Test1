@@ -1,1 +1,2 @@
-miso\nmochi is not a random thing 
+miso\nmochi these are Andrew's gineapigs
+>>>>>>> feature1
